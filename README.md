@@ -15,7 +15,7 @@ Para jogar, siga os passos abaixo:
 
 1. **Acesso ao Jogo:**
    * Copie o codigo em `sketch.js` e execute o projeto através do [p5.js Web Editor].
-   * Em sketch files, crie um folder com o nome "assets" e dentro de assets crie "image" e faca o upload das imagens dentro de image
+   * Em sketch files, crie um folder com o nome "assets" e dentro de assets crie "image" e faca o upload das imagens dentro de image, apos isso so rodar o jogo e se divertir
 
 2. **Comandos:**
    * **Tecla ESPAÇO:** Inicia o jogo a partir da tela de abertura ou reinicia após um Game Over.
