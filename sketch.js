@@ -55,7 +55,7 @@ function playGame() {
   imageMode(CORNER);
   image(imgFundo, 0, 0, width, height);
 
-  // 2. HUD: Pontuação[cite: 3]
+  // 2. HUD: Pontuação
   fill(255);
   textSize(20);
   textAlign(LEFT);
